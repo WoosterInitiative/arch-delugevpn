@@ -1,3 +1,5 @@
+My first foray into really editing one of these. Trying to add ability to extract files automatically when torrent is complete.
+
 **Application**
 
 [Deluge website](http://deluge-torrent.org/)  
